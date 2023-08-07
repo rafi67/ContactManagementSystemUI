@@ -1,0 +1,23 @@
+.divMargin {
+    margin-left: 43%;
+}
+
+table {
+    width: 50%; margin-left: 25%;
+}
+
+form{
+    align-self: center;
+}
+h1 {
+    text-align: center;
+}
+input {
+    width: 25.5%;
+    margin-top: 2%;
+    align-content: center;
+}
+.btnDiv {
+    margin-left: 0%;
+    width: 25.5%;
+}
